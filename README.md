@@ -33,3 +33,9 @@ go test ./...
 ```
 
 The tests run against an in-process HTTP server; no account is needed.
+
+## Support
+
+Something not working, or a case this does not cover? Open an issue here, or
+write to [hello@dnsmint.com](mailto:hello@dnsmint.com). This package is
+maintained by the DNSMint team.
